@@ -1,2 +1,3 @@
-# Function-C-language
-my learning phase repository
+# Functions - 
+
+This repository is for my practice and learning phase.
